@@ -63,3 +63,4 @@ typings/
 
 # development config.js files
 /src/config.js
+analysis/
