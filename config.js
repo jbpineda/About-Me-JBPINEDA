@@ -2,7 +2,7 @@ console.log("CONFIG VERSION: school/skills test", new Date().toISOString());
 
 var config = {
   style: 'mapbox://styles/tgnewikow/cmdnimw9n001b01sg61y7a5hy',
-  accessToken: 'pk.eyJ1IjoiamJwaW5lZGEiLCJhIjoiY21reGxua2p2MGI5aTNkb2psODE3OGg2YSJ9.VLscZb55_svRCvAuyoEBbw',
+  accessToken: 'pk.eyJ1IjoiamJwaW5lZGEiLCJhIjoiY21reHQxdHBpMGNkaTNmcG92Z2lvOXJ3OCJ9.wXPgO1jup00kZYX0ZcSuww',
   showMarkers: false,
   markerColor: '#3FB1CE',
   //projection: 'equirectangular',
